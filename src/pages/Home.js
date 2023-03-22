@@ -20,9 +20,8 @@ const Home = () => {
   };
 
   const handleSearch = (text) => {
-    // eslint-disable-next-line
-    const filteredCompanies = stockMaterials.filter((ex) => ex.companyName.toLowerCase().includes(text));
-    setStockMaterial(filteredCompanies);
+    const filtereComp = stockMaterials.filter((ex) => ex.companyName.toLowerCase().includes(text));
+    setStockMaterial(filtereComp);
   };
 
   const showStockDetails = (id) => {
@@ -46,14 +45,14 @@ const Home = () => {
               <option value="ASMLHolding">ASML Holding</option>
               <option value="AdobeInc">Adobe Inc</option>
               <option value="TexasInstrumentsIncorporated">Texas Instruments Incorporated</option>
-              <option value="Advanced_Micro_Devices_Inc">Advanced Micro Devices Inc</option>
+              <option value="AdvancedMicroDevicesInc">Advanced Micro Devices Inc</option>
               <option value="QualcommIncorporated">Qualcomm Incorporated</option>
               <option value="IntuitInc">Intuit Inc</option>
               <option value="AnalogDeviceInc">Analog Device Inc</option>
               <option value="LamResearchCorppration">Lam Research Corppration</option>
-              <option value="MicronTechnologyINC">Micron_Technology_INC</option>
-              <option value="PaloAltoNetworksINC">Palo_Alto_Networks_INC</option>
-              <option value="SynopsysInc">Synopsys_Inc</option>
+              <option value="MicronTechnologyINC">MicronTechnologyINC</option>
+              <option value="PaloAltoNetworksINC">PaloAltoNetworksINC</option>
+              <option value="SynopsysInc">SynopsysInc</option>
               <option value="otherCompanies">Other Companies</option>
             </select>
           </form>

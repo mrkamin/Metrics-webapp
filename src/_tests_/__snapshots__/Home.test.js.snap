@@ -39,74 +39,74 @@ exports[`snapshots 1`] = `
             All Companies
           </option>
           <option
-            value="Apple_Inc"
+            value="AppleInc"
           >
             Apple Inc
           </option>
           <option
-            value="Nvidia_Corporation"
+            value="NvidiaCorporation"
           >
             Nvidia Corporation
           </option>
           <option
-            value="Broadcom_Inc"
+            value="BroadcomInc"
           >
             Broadcom Inc
           </option>
           <option
-            value="ASML_Holding"
+            value="ASMLHolding"
           >
             ASML Holding
           </option>
           <option
-            value="Adobe_Inc"
+            value="AdobeInc"
           >
             Adobe Inc
           </option>
           <option
-            value="Texas_Instruments_Incorporated"
+            value="TexasInstrumentsIncorporated"
           >
             Texas Instruments Incorporated
           </option>
           <option
-            value="Advanced_Micro_Devices_Inc"
+            value="AdvancedMicroDevicesInc"
           >
             Advanced Micro Devices Inc
           </option>
           <option
-            value="Qualcomm_Incorporated"
+            value="QualcommIncorporated"
           >
             Qualcomm Incorporated
           </option>
           <option
-            value="Intuit_Inc"
+            value="IntuitInc"
           >
             Intuit Inc
           </option>
           <option
-            value="Analog_Device_Inc"
+            value="AnalogDeviceInc"
           >
             Analog Device Inc
           </option>
           <option
-            value="Lam_Research_Corppration"
+            value="LamResearchCorppration"
           >
             Lam Research Corppration
           </option>
           <option
-            value="Micron_Technology_INC"
+            value="MicronTechnologyINC"
           >
-            Micron_Technology_INC
+            MicronTechnologyINC
           </option>
           <option
-            value="Palo_Alto_Networks_INC"
+            value="PaloAltoNetworksINC"
           >
-            Palo_Alto_Networks_INC
+            PaloAltoNetworksINC
           </option>
           <option
-            value="Synopsys_Inc"
+            value="SynopsysInc"
           >
-            Synopsys_Inc
+            SynopsysInc
           </option>
           <option
             value="otherCompanies"
