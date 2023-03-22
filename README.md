@@ -50,7 +50,10 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- - [Live Demo](Coming soon)
+ - Live Demo: [netlify](https://superb-puppy-322d9f.netlify.app/)
+
+ **Loom Video Link**
+[Description of project](https://www.loom.com/share/7d89819ba3d94f64ac37fb8c3e12494f)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
