@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+:root {
+  --pink-light: #fd5293;
+  --pink: #ed4d8b;
+  --pink-medium: #d1447a;
+  --pink-dark: #9f365f;
+  --contrast: #fbd918;
+  --white: #fff8fc;
+  --black: #2b2827;
+}
+
+html,
+body {
+  color: var(--white);
+  background-color: var(--pink);
+  padding: 0;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}

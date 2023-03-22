@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots 1`] = `
+<div
+  className="homeform"
+>
+  <div
+    className="homeHederBackground"
+  >
+    <div
+      className="homeHeder"
+    >
+      <div
+        className="detailcompanyName"
+      >
+        CompanyName:
+      </div>
+      <div
+        className="detailcompanyNameTwo"
+      >
+        Apple Inc.
+      </div>
+      <span
+        className="homeform"
+      >
+        MarketCap:
+      </span>
+    </div>
+  </div>
+  <div
+    className="DetailsListContainer"
+  >
+    <h2
+      className="homeform"
+    >
+      Stock Screener Details
+    </h2>
+    <ul
+      className="DetailsUL"
+    >
+      <li
+        className="DetailsLi"
+      >
+        <h4
+          className="homeform"
+        >
+          Sector
+        </h4>
+        <p
+          className="homeform"
+        />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          Industry
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          Beta
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          Price
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          LastAnnualDividend
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          Exchange
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          ExchangeShortName
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          Country
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          IsEtf
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          IsActivelyTrading
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          symbol
+        </h4>
+        <p />
+      </li>
+      <li
+        className="DetailsLi"
+      >
+        <h4>
+          Volume
+        </h4>
+        <p />
+      </li>
+    </ul>
+  </div>
+</div>
+`;

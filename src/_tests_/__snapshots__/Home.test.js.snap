@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots 1`] = `
+<div
+  className="homeContainer"
+>
+  <div
+    className="homeHederBackground"
+  >
+    <div
+      className="homeHeder"
+    >
+      <h1
+        className="homeTitle"
+      >
+        Companies
+      </h1>
+      <input
+        className="homeInput"
+        onChange={[Function]}
+        placeholder="search companies"
+        type="text"
+      />
+      <form>
+        <select
+          className="homeform"
+          id="companies"
+          name="companies"
+          onChange={[Function]}
+        >
+          <option
+            value="Select A Company"
+          >
+            Select A Company
+          </option>
+          <option
+            value="allCompanies"
+          >
+            All Companies
+          </option>
+          <option
+            value="Apple_Inc"
+          >
+            Apple Inc
+          </option>
+          <option
+            value="Nvidia_Corporation"
+          >
+            Nvidia Corporation
+          </option>
+          <option
+            value="Broadcom_Inc"
+          >
+            Broadcom Inc
+          </option>
+          <option
+            value="ASML_Holding"
+          >
+            ASML Holding
+          </option>
+          <option
+            value="Adobe_Inc"
+          >
+            Adobe Inc
+          </option>
+          <option
+            value="Texas_Instruments_Incorporated"
+          >
+            Texas Instruments Incorporated
+          </option>
+          <option
+            value="Advanced_Micro_Devices_Inc"
+          >
+            Advanced Micro Devices Inc
+          </option>
+          <option
+            value="Qualcomm_Incorporated"
+          >
+            Qualcomm Incorporated
+          </option>
+          <option
+            value="Intuit_Inc"
+          >
+            Intuit Inc
+          </option>
+          <option
+            value="Analog_Device_Inc"
+          >
+            Analog Device Inc
+          </option>
+          <option
+            value="Lam_Research_Corppration"
+          >
+            Lam Research Corppration
+          </option>
+          <option
+            value="Micron_Technology_INC"
+          >
+            Micron_Technology_INC
+          </option>
+          <option
+            value="Palo_Alto_Networks_INC"
+          >
+            Palo_Alto_Networks_INC
+          </option>
+          <option
+            value="Synopsys_Inc"
+          >
+            Synopsys_Inc
+          </option>
+          <option
+            value="otherCompanies"
+          >
+            Other Companies
+          </option>
+        </select>
+      </form>
+    </div>
+  </div>
+  <div
+    className="materialListContainer"
+  />
+  <div>
+    <span
+      className="homeFooter"
+    >
+      Stock Screener Copywrite Mohammad Rafi Amin
+    </span>
+  </div>
+</div>
+`;

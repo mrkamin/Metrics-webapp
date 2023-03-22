@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+:root {
+  --pink-light: #fd5293;
+  --pink: #ed4d8b;
+  --pink-medium: #d1447a;
+  --pink-dark: #9f365f;
+  --contrast: #fbd918;
+  --white: #fff8fc;
+  --black: #2b2827;
+}
+
+.homeHederBackground {
+  background-image: url('../assets/Brand\ Logo\ Wallpapers.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.homeHeder {
+  background-color: #ed4d8adc;
+  padding: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.detailcompanyName {
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.detailcompanyNameTwo {
+  font-size: large;
+  font-weight: bold;
+}
+
+.DetailsListContainer {
+  padding: 10px;
+}
+
+.DetailsUL > li:nth-child(even) {
+  background-color: var(--pink-medium);
+}
+
+.DetailsUL {
+  list-style: none;
+  list-style-type: none;
+}
+
+.DetailsLi {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0 10px;
+  border-radius: 0.4rem;
+}
