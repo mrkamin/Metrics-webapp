@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+:root {
+  --pink-light: #fd5293;
+  --pink: #ed4d8b;
+  --pink-medium: #d1447a;
+  --pink-dark: #9f365f;
+  --contrast: #fbd918;
+  --white: #fff8fc;
+  --black: #2b2827;
+}
+
+.navBarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 16px;
+}
+
+.navBarBtn {
+  border: none;
+  background-color: var(--pink);
+  color: var(--white);
+  font-size: large;
+}
+
+.navBarHeading {
+  font-family: 'Lato', sans-serif;
+  color: rgba(255, 255, 255, 0.623);
+}
+
+.navBarIcons {
+  width: 50px;
+  font-size: large;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
